@@ -4,11 +4,11 @@ Be creative, but also remember that you only have a week to complete the assignm
 
  
  
-You must describe the Server-side code: (Cari)
+You must describe the Server-side code: 
 What will your server-side code look like? What files and functions will you have?
 How will you keep your code DRY?
  
-You must design a Database:
+You must design a Database: (Cari)
 What tables will you have in your database?
 What kind of CRUD operations will you perform to manipulate the data?
 What role does Security play in your Blog CMS? Why is it important to protect this database?
