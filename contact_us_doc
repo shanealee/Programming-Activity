@@ -34,5 +34,5 @@ form(action='/save')   "firstName": "input first name"
   </form>
   We look forward to getting in touch. Please give us 48 hours for a response. 
 
-     footer: {!_inc/footer.md!}   
+     footer: {!_inc/footer.md! }   
 
