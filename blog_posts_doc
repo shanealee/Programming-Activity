@@ -1,0 +1,35 @@
+Header
+![LOGO] [logo]
+# Blog Posts
+## The Inside Look At Life As A UX Student
+title: Menu
+navigation: 
+  - section: Menu
+  - document: index_doc
+    label: Home
+  - document: about_us_doc
+    label: About Us
+  - document: blog_posts_doc
+    label: Blog Posts 
+  - document: contact_us_doc
+    label: Contact Us
+  
+  Body
+..*Unordered Blog Post List
+*[Blog Post 1] [1]
+
+![Grabbing Coffee] [coffee]
+###Blog Post 1    Author:RGEN  Date:10/13/2019
+This is the first blog post on the site. Welcome to the community! 
+This is a place for students to gather to talk about UX design and being a student.
+So grab your cup of coffee, pull up a chair, and get ready to discuss design.
+We look forward to getting to know each other and are always open to new members. 
+
+Footer
+###### Created by the Lesley UX Collective 2019
+
+Links
+[1]: blog_post_1_doc
+[coffee]: images/coffee.png
+[logo]: images/logo.png
+
