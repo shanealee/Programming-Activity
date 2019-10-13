@@ -14,18 +14,4 @@ We look forward to getting in touch. Please give us 48 hours for a response.
 <?php include "footer.php"
 ?>
 
-------Markdown language
-h1 User Information
 
-form(action='/save')
-  input(name='name')
-  input(name='email')
-  input(type='submit', value='Save')
-
-```
-{
-  "firstName": "input first name",
-  "lastName": "input last name",
-  "email": "input email"
-}
-```
