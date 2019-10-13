@@ -3,3 +3,5 @@
 Footer
 ###### Created by the Lesley UX Collective 2019
 </div>
+
+     footer: {!_inc/footer.md!}   
