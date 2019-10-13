@@ -1,18 +1,5 @@
-Header
-![LOGO] [logo]
-# Blog Posts
-## The Inside Look At Life As A UX Student
-title: Menu
-navigation: 
-  - section: Menu
-  - document: index_doc
-    label: Home
-  - document: about_us_doc
-    label: About Us
-  - document: blog_posts_doc
-    label: Blog Posts 
-  - document: contact_us_doc
-    label: Contact Us
+<?php include "header.php"
+?>
   
   Body
 ..*Unordered Blog Post List
@@ -28,8 +15,11 @@ We look forward to getting to know each other and are always open to new members
 Footer
 ###### Created by the Lesley UX Collective 2019
 
+<?php include "footer.php"
+?>
+
 Links
 [1]: blog_post_1_doc
 [coffee]: images/coffee.png
-[logo]: images/logo.png
+
 
