@@ -1,25 +1,12 @@
-Header
-![LOGO] [logo]
-# About Us
-## A UX Lesley Collective
-title: Menu
-navigation: 
-  - section: Menu
-  - document: index_doc
-    label: Home
-  - document: about_us_doc
-    label: About Us
-  - document: blog_posts_doc
-    label: Blog Posts 
-  - document: contact_us_doc
-    label: Contact Us
+<?php include "header.php"
+?>
   
 Body
 ![Group Photo] [Group Photo]
 We are a community of UX Designers. This group was founded in 2019 at Lesley University 
 
-Footer
-###### Created by the Lesley UX Collective 2019
+<?php include "footer.php"
+?>
 
 Links
 [Group Photo]: images/groupphoto.png
