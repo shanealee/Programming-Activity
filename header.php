@@ -17,3 +17,7 @@ navigation:
     label: Blog Posts 
   - document: contact_us_doc
     label: Contact Us
+
+Link
+[logo]: images/logo.png
+
