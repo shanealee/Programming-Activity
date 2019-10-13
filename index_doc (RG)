@@ -9,7 +9,7 @@ Body
 ?>
 Links
 [1]: blog_post_1_doc
-[logo]: images/logo.png
+
 
 DRY CODE:
 The server-side code would be kept DRY by creating seperate documents for the header, navigation menu, and footer
