@@ -1,19 +1,5 @@
-Header
-![LOGO] [logo]
-# Contact Us
-
-title: Menu
-navigation: 
-  - section: Menu
-  - document: index_doc
-    label: Home
-  - document: about_us_doc
-    label: About Us
-  - document: blog_posts_doc
-    label: Blog Posts 
-  - document: contact_us_doc
-    label: Contact Us
-  
+<?php include "header.php"
+?>
   Body
 <form action="/action_page.php">
 First name: <input type="text" name="FirstName" value="First Name"><br>
@@ -25,10 +11,8 @@ Message:<textarea rows="4" cols="50"> Write your message here.
 </form>
 We look forward to getting in touch. Please give us 48 hours for a response. 
 
-Footer
-###### Created by the Lesley UX Collective 2019
+<?php include "footer.php"
+?>
 
-Links
-[1]: blog_post_1_doc
-[logo]: images/logo.png
+
 
