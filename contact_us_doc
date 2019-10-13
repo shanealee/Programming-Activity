@@ -13,26 +13,3 @@ We look forward to getting in touch. Please give us 48 hours for a response.
 
 <?php include "footer.php"
 ?>
-
-------Markdown language
-header: # h1 User Information
-
-            Some **markdown** here
-
-<?php include "header.php"
-?>
-  ### Body
-<form action="/action_page.php">
-
-form(action='/save')   "firstName": "input first name"
-  input(name='name')    "lastName": "input last name"
-  input(name='email')    "email": "input email" }
-  
- ##### Message:<textarea rows="4" cols="50"> Write your message here.
-
-  input(type='submit', value='Save')
-  </form>
-  We look forward to getting in touch. Please give us 48 hours for a response. 
-
-     footer: {!_inc/footer.md! }   
-
