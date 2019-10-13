@@ -1,0 +1,27 @@
+Header
+![alt text] [logo]
+# Slice of UX Student Life
+## A blog for all things related to being a UX student
+title: Menu
+navigation: 
+  - section: Menu
+  - document: index_doc
+    label: Home
+  - document: about_us_doc
+    label: About Us
+  - document: blog_posts_doc
+    label: Blog Posts 
+  - document: contact_us_doc
+    label: Contact Us
+  
+  Body
+..*Unordered Blog Post List
+*[Blog Post 1] [1]
+
+Footer
+###### Created by the Lesley UX Collective 2019
+
+Links
+[1]: blog_post_1_doc
+[logo]: images/logo.png
+
