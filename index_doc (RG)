@@ -1,0 +1,18 @@
+<?php include "header.php"
+?>
+
+Body
+..*Unordered Blog Post List
+*[Blog Post 1] [1]
+
+<?php include "footer.php"
+?>
+Links
+[1]: blog_post_1_doc
+
+
+DRY CODE:
+The server-side code would be kept DRY by creating seperate documents for the header, navigation menu, and footer
+that could be linked/referenced in various pages.   
+Also it would be DRY through using reference links. Both of these methods were used throughout the project.  
+

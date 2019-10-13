@@ -1,0 +1,12 @@
+<?php include "header.php"
+?>
+  
+Body
+![Group Photo] [Group Photo]
+We are a community of UX Designers. This group was founded in 2019 at Lesley University 
+
+<?php include "footer.php"
+?>
+
+Links
+[Group Photo]: images/groupphoto.png
