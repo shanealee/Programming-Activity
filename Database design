@@ -1,4 +1,4 @@
-DATABASE
+## DATABASE
 Using phpMyAdmin we will need to create a MySQL database to manage parts of our blog’s content. If built using PHP, then MySQLi will bridge the functionality from the application to the database. 
 
 There are two user profiles for our blog, an Administrator (author) and a user. Both profiles have a limited set of actions that can be taken.  Admin actions consist of (1) register as author and (2) write/edit articles. User actions consist of (1) view/filter for articles (2) like article (3) comment on article and (4) “liking” a comment. For this we'll need three tables: author_table, post_table, and comments_table.
@@ -10,8 +10,8 @@ author_id (INT)
 author_first (VARCHAR 50)
 author_last (VARCHAR 50)
 author_email (VARCHAR 255)
-Author_password (VARCHAR 30)
-Author_bio (CLOB)
+author_password (VARCHAR 30)
+author_bio (CLOB)
 
 | author_id  | author_first | author_last | author_email | author_password | author_bio     |
 | ------------- |:---------------:| ---------------:|------------------:|------------------------:|-------------------:|
@@ -89,8 +89,10 @@ VALUES
 CMS Security
 For this blog several security concerns need to be addressed: 
 
-Backing up content: In the event that the blog is compromised, it would be wise for us to have the content backed-up somewhere else other than just the one server. 
+Backing up content: In the event that the blog is compromised, it would be wise for us to have the content backed-up somewhere else other than just the one server.
+
 Password safety: Authors who register on the blog should be forced to create a password that is difficult to guess/hack. Most importantly, we need to protect the server where all of that information lives as it is more likely to be taken from the server, rather than someone “guessing” an individual’s login credentials. 
+
 Hack attempt notification: For our blog we might want to invest in services that notify when someone has attempted to attack our blog. This gives us time to take any measures, or update passwords to ensure the security of the blog. 
 
 
