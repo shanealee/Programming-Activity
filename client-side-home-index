@@ -1,0 +1,21 @@
+
+<?php include "header.php"
+?>
+# H1
+**bold text**
+# Welcome to our UX Page! {style=text-align:center}
+
+![Group Photo](images/groupphoto.png)
+
+## H2
+View our Blog Posts
+..*Unordered Blog Post List
+*[Blog Post 1] [1]
+
+<?php include "footer.php"
+?>
+Links
+[1]: blog_post_1_doc
+
+
+[Please email us to Join our group!](UXdesigners@gmail.com)
