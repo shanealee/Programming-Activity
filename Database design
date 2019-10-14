@@ -88,11 +88,8 @@ VALUES
 
 CMS Security
 For this blog several security concerns need to be addressed: 
-
 Backing up content: In the event that the blog is compromised, it would be wise for us to have the content backed-up somewhere else other than just the one server.
-
 Password safety: Authors who register on the blog should be forced to create a password that is difficult to guess/hack. Most importantly, we need to protect the server where all of that information lives as it is more likely to be taken from the server, rather than someone “guessing” an individual’s login credentials. 
-
 Hack attempt notification: For our blog we might want to invest in services that notify when someone has attempted to attack our blog. This gives us time to take any measures, or update passwords to ensure the security of the blog. 
 
 
