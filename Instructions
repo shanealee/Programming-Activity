@@ -5,8 +5,8 @@ Be creative, but also remember that you only have a week to complete the assignm
  
  
 You must describe the Server-side code: 
-What will your server-side code look like? What files and functions will you have? (Wendy)
-How will you keep your code DRY? (Wendy)
+What will your server-side code look like? What files and functions will you have?
+How will you keep your code DRY? 
  
 You must design a Database: (Cari)
 What tables will you have in your database? (Cari) 
@@ -14,9 +14,9 @@ What kind of CRUD operations will you perform to manipulate the data? (Cari)
 What role does Security play in your Blog CMS? Why is it important to protect this database?(Cari)
  
 You must design the Client-side code:
-What will your client side code look like?
-What kinds of functionality would it be better to do on the client side rather than on the server?
-What kind of POST requests would you have in your Blog CMS?
+What will your client side code look like? Shanea & Wendy
+What kinds of functionality would it be better to do on the client side rather than on the server? Shanea & Wendy
+What kind of POST requests would you have in your Blog CMS? Shanea & Wendy
 
  
  
